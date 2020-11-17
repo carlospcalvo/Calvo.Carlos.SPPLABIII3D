@@ -1,0 +1,34 @@
+{
+  "anuncios": [
+    {
+      "id": 1,
+      "titulo": "asasdad",
+      "descripcion": "test",
+      "transaccion": "Venta",
+      "precio": "123123",
+      "puertas": "4",
+      "kilometros": "1231231",
+      "potencia": "23123123"
+    },
+    {
+      "id": 3,
+      "titulo": "nuevo fetch",
+      "descripcion": "farfetchd",
+      "transaccion": "Alquiler",
+      "precio": "465461",
+      "puertas": "10",
+      "kilometros": "456789",
+      "potencia": "1324"
+    },
+    {
+      "id": 4,
+      "titulo": "test 1",
+      "descripcion": "asdad",
+      "transaccion": "Venta",
+      "precio": "456",
+      "puertas": "5",
+      "kilometros": "121",
+      "potencia": "48"
+    }
+  ]
+}
